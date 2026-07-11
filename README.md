@@ -86,7 +86,7 @@ The Apriori algorithm identified meaningful purchasing patterns that can help re
 <img width="1431" height="642" alt="image" src="https://github.com/user-attachments/assets/05b2ad3f-5069-4934-b024-6152e2f590fc" />
 <img width="942" height="705" alt="image" src="https://github.com/user-attachments/assets/73922dcf-f501-4421-8022-551f2336effe" />
 <img width="956" height="691" alt="image" src="https://github.com/user-attachments/assets/604d6da5-87f7-4e72-a07f-94663340d8d9" />
-<img width="880" height="670" alt="image" src="https://github.com/user-attachments/assets/94cec5c3-636f-4132-bd94-71dc3a4af9bf" />
+<img width="470" height="272" alt="image" src="https://github.com/user-attachments/assets/eb195bc8-ed3f-41a9-a509-43a8a2f8a05f" />
 <img width="1261" height="752" alt="image" src="https://github.com/user-attachments/assets/0153b6e0-0378-44d6-8d76-e60cf5c94bd5" />
 
 
