@@ -80,8 +80,10 @@ Measures the strength of association between products.
 ## Results
 
 The Apriori algorithm identified meaningful purchasing patterns that can help retailers: 
-
+ ### Top 10 Frequent Itemsets
 <img width="396" height="432" alt="image" src="https://github.com/user-attachments/assets/297ba22b-2284-4329-8d01-b2b30f00b6fc" />
+
+### Generate association rule
 <img width="672" height="230" alt="image" src="https://github.com/user-attachments/assets/64f62223-58bd-49ee-bc51-d89a19e57f5f" />
 <img width="1431" height="642" alt="image" src="https://github.com/user-attachments/assets/05b2ad3f-5069-4934-b024-6152e2f590fc" />
 <img width="942" height="705" alt="image" src="https://github.com/user-attachments/assets/73922dcf-f501-4421-8022-551f2336effe" />
