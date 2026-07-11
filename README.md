@@ -79,7 +79,14 @@ Measures the strength of association between products.
 
 ## Results
 
-The Apriori algorithm identified meaningful purchasing patterns that can help retailers:
+The Apriori algorithm identified meaningful purchasing patterns that can help retailers: <img width="747" height="901" alt="image" src="https://github.com/user-attachments/assets/fc297a44-f11e-49a8-81ae-9b4e7a7966d8" />
+<img width="1357" height="777" alt="image" src="https://github.com/user-attachments/assets/99d3b401-3453-4dc1-a3d9-027b2660273a" />
+<img width="1431" height="642" alt="image" src="https://github.com/user-attachments/assets/05b2ad3f-5069-4934-b024-6152e2f590fc" />
+<img width="942" height="705" alt="image" src="https://github.com/user-attachments/assets/73922dcf-f501-4421-8022-551f2336effe" />
+<img width="956" height="691" alt="image" src="https://github.com/user-attachments/assets/604d6da5-87f7-4e72-a07f-94663340d8d9" />
+<img width="880" height="670" alt="image" src="https://github.com/user-attachments/assets/94cec5c3-636f-4132-bd94-71dc3a4af9bf" />
+<img width="1261" height="752" alt="image" src="https://github.com/user-attachments/assets/0153b6e0-0378-44d6-8d76-e60cf5c94bd5" />
+
 
 - Improve product placement
 - Create promotional bundles
