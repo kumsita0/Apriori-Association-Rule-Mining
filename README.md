@@ -151,7 +151,15 @@ Open Jupyter Notebook:
 jupyter notebook
 
 ---
+## Repository Structure
 
+| File / Folder | Description |
+|---------------|-------------|
+| `Updated_Groceries_dataset.ipynb` | Main Jupyter Notebook containing Python implementation of grocery market basket analysis using Apriori algorithm and association rule mining |
+| `Groceries_dataset (1) (1).csv` | Grocery transaction dataset containing customer purchase records used to identify frequent item combinations |
+| `frequent_pattern_mining_questions.pdf` | Supporting document containing questions and requirements related to frequent pattern mining analysis |
+| `README.md` | Provides complete project documentation including objective, dataset description, analysis workflow, visualizations, insights, and results |
+| `requirements.txt` | Contains required Python packages and dependencies needed to execute the notebook |
 
 ---
 
