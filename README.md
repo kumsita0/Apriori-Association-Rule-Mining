@@ -109,24 +109,6 @@ The Apriori algorithm identified meaningful purchasing patterns that can help re
 
 ---
 
-## Repository Structure
-
-```
-market-basket-analysis-apriori/
-│
-├── notebooks/
-│   └── Updated_Groceries_dataset.ipynb
-│
-├── data/
-│   └── Groceries_dataset.csv
-│
-├── images/
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Skills Demonstrated
 
 - Data Cleaning
