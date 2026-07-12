@@ -134,6 +134,23 @@ Customers purchasing bread frequently purchase milk, suggesting opportunities fo
 - Product Recommendation Engine
 
 ---
+## How to Run 
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/kumsita0/Apriori-Association-Rule-Mining.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Open Jupyter Notebook:
+
+jupyter notebook
+
+---
 
 ## Author
 
