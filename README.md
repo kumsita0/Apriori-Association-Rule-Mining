@@ -106,19 +106,12 @@ The Apriori algorithm identified meaningful purchasing patterns that can help re
 
 ```text
 Apriori-Association-Rule-Mining/
-│
-├── Apriori_Association_Rule_Mining.ipynb      # Jupyter Notebook containing the complete analysis
-├── Groceries_dataset.csv                      # Grocery transactions dataset
-├── README.md                                  # Project documentation
-├── requirements.txt                           # Required Python libraries
-└── images/                                    # Project screenshots
-    ├── top_10_frequent_itemsets.png
-    ├── association_rules.png
-    ├── item_frequency.png
-    ├── scatter_plot_support_confidence.png
-    ├── lift_distribution_histogram.png
-    ├── pivot_table.png
-    └── bar_chart_top_items.png
+| File / Folder | Description |
+|---------------|-------------|
+| `Apriori_Association_Rule_Mining.ipynb` | Main Jupyter Notebook containing data loading, data preprocessing, exploratory analysis, Apriori algorithm implementation, frequent itemset generation, and association rule analysis |
+| `Groceries_dataset.csv` | Transaction dataset containing grocery purchase records used for market basket analysis |
+| `README.md` | Provides project overview, business objective, dataset description, analysis workflow, visualizations, insights, and instructions for running the project |
+| `requirements.txt` | Contains required Python packages and dependencies needed to execute the notebook |
 ```
 
 ---
