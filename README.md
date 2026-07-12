@@ -7,7 +7,7 @@ Frequent Pattern Mining (FPM) problems to practice Apriori, Support, Confidence,
 
 This project demonstrates **Market Basket Analysis** using the **Apriori Algorithm** in Python. The objective is to identify frequently purchased item combinations and generate association rules that provide insights into customer purchasing behavior.
 
-This project was completed using **Jupyter Notebook** as part of a Data Mining assignment.
+This project was completed using **Jupyter Notebook** as part of a Data Mining project.
 
 ---
 
@@ -101,6 +101,9 @@ The Apriori algorithm identified meaningful purchasing patterns that can help re
 ### Create a Bar Chart
 <img width="1261" height="752" alt="image" src="https://github.com/user-attachments/assets/0153b6e0-0378-44d6-8d76-e60cf5c94bd5" />
 
+###  Business Insights
+
+Customers purchasing bread frequently purchase milk, suggesting opportunities for product placement and promotions.
 
 - Improve product placement
 - Create promotional bundles
