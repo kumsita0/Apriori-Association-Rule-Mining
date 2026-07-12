@@ -42,6 +42,17 @@ The dataset contains grocery shopping transactions where each transaction includ
 
 ---
 
+## requirements.txt
+- matplotlib==3.9.0
+- mlxtend==0.23.1
+- numpy==1.26.4
+- pandas==2.2.2
+- scikit-learn==1.5.1
+- jupyter==1.0.0
+- seaborn==0.13.2
+
+---
+
 ## Project Workflow
 
 1. Import Libraries
