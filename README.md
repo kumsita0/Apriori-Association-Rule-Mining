@@ -101,6 +101,28 @@ The Apriori algorithm identified meaningful purchasing patterns that can help re
 ### Create a Bar Chart
 <img width="1261" height="752" alt="image" src="https://github.com/user-attachments/assets/0153b6e0-0378-44d6-8d76-e60cf5c94bd5" />
 
+---
+## Repository Structure
+
+```text
+Apriori-Association-Rule-Mining/
+│
+├── Apriori_Association_Rule_Mining.ipynb      # Jupyter Notebook containing the complete analysis
+├── Groceries_dataset.csv                      # Grocery transactions dataset
+├── README.md                                  # Project documentation
+├── requirements.txt                           # Required Python libraries
+└── images/                                    # Project screenshots
+    ├── top_10_frequent_itemsets.png
+    ├── association_rules.png
+    ├── item_frequency.png
+    ├── scatter_plot_support_confidence.png
+    ├── lift_distribution_histogram.png
+    ├── pivot_table.png
+    └── bar_chart_top_items.png
+```
+
+---
+
 ###  Business Insights
 
 Customers purchasing bread frequently purchase milk, suggesting opportunities for product placement and promotions.
